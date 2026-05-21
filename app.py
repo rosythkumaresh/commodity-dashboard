@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 # ─── PAGE CONFIG ─────────────────────────────────────────────────────────────
 st.set_page_config(
     layout="wide",
-    page_title="CommodityOS — Global Markets Terminal ©Kumaresh 2026",
+    page_title="CommodityOS — Global Markets Terminal",
     page_icon="⚡",
     initial_sidebar_state="expanded"
 )
@@ -396,7 +396,7 @@ with st.sidebar:
 now_str = datetime.utcnow().strftime("%Y-%m-%d  %H:%M UTC")
 st.markdown(f"""
 <div class="terminal-header">
-  <div class="terminal-title">⚡ Commodity<span>OS</span> — Global Markets Terminal</div>
+  <div class="terminal-title">⚡ Commodity<span>OS</span> — Global Markets Terminal ©Kumaresh 2026</div>
   <div class="terminal-status"><span class="live-dot"></span>LIVE  ·  {now_str}</div>
 </div>
 """, unsafe_allow_html=True)
