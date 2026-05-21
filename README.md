@@ -109,4 +109,4 @@ This dashboard is built for **educational and research purposes only**. All sign
 
 **Thiagarajan Kumaresh** — built to demonstrate applied knowledge of commodity markets, quantitative analysis, and financial data engineering.
 
-Feel free to connect on [LinkedIn](www.linkedin.com/in/thiagarajan-kumaresh-b7132421a) or reach out via [GitHub](https://github.com/rosythkumaresh).
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/thiagarajan-kumaresh-b7132421a/) or reach out via [GitHub](https://github.com/rosythkumaresh).
