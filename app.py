@@ -396,7 +396,7 @@ with st.sidebar:
 now_str = datetime.utcnow().strftime("%Y-%m-%d  %H:%M UTC")
 st.markdown(f"""
 <div class="terminal-header">
-  <div class="terminal-title">⚡ Commodity<span>OS</span> — Global Markets Terminal ©Kumaresh 2026</div>
+  <div class="terminal-title">⚡ Commodity<span>OS</span> — Global Markets Terminal</div>
   <div class="terminal-status"><span class="live-dot"></span>LIVE  ·  {now_str}</div>
 </div>
 """, unsafe_allow_html=True)
@@ -902,6 +902,6 @@ st.markdown("""
 <div style="margin-top:3rem;padding-top:1rem;border-top:1px solid #0d2035;
             font-family:'IBM Plex Mono';font-size:0.65rem;color:#1e3a55;text-align:center">
   CommodityOS · Data via Yahoo Finance · For educational & research purposes only ·
-  Not financial advice · Signals are algorithmic and do not constitute investment recommendations
+  Not financial advice · Signals are algorithmic and do not constitute investment recommendations · ©Kumaresh 2026
 </div>
 """, unsafe_allow_html=True)
